@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fattah.musicfattahai",
+      "sha256_cert_fingerprints": [
+        "6E:04:0C:30:7F:41:E5:F6:B4:C1:CC:F5:58:31:BD:91:06:09:70:AB:A3:7E:7C:A1:F2:CC:5E:2F:21:00:F4:86"
+      ]
+    }
+  }
+]
